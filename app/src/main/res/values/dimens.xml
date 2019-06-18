@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="unit">8dp</dimen>
+    <dimen name="logo_margin">72dp</dimen>
+    <dimen name="two_units">16dp</dimen>
+    <dimen name="half_a_unit">4dp</dimen>
+    <dimen name="line">1dp</dimen>
+    <dimen name="quarter_a_unit">2dp</dimen>
+    <dimen name="photo_action_bar_height">68dp</dimen>
+    <dimen name="drawer_width">240dp</dimen>
+    <dimen name="main_img_size">72dp</dimen>
+    <dimen name="main_img_height">64dp</dimen>
+    <dimen name="main_img_width">96dp</dimen>
+    <dimen name="video_size">120dp</dimen>
+    <dimen name="video_width">180dp</dimen>
+    <dimen name="three_units">24dp</dimen>
+    <dimen name="register_profile_image_size">96dp</dimen>
+    <dimen name="small_btn_size">32dp</dimen>
+    <dimen name="profile_image">144dp</dimen>
+    <dimen name="medium_button_size">48dp</dimen>
+    <dimen name="notification_thumbnail">48dp</dimen>
+    <dimen name="results_image_size">24dp</dimen>
+    <dimen name="main_img_size_info">80dp</dimen>
+    <dimen name="comments_image">48dp</dimen>
+    <dimen name="replay_image">32dp</dimen>
+    <dimen name="rounded_btn_radius">200dp</dimen>
+
+    <dimen name="btn_profile_image">35dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="profile_header">160dp</dimen>
+    <dimen name="fab_size">16dp</dimen>
+    <dimen name="very_small_btn_size">24dp</dimen>
+    <dimen name="map_message_deep">64dp</dimen>
+    <dimen name="galary_img_view_height">72dp</dimen>
+    <dimen name="thumbnail_size">70dp</dimen>
+    <dimen name="new_image_size">144dp</dimen>
+    <dimen name="customized_map_height">96dp</dimen>
+    <dimen name="large_margin_top">72dp</dimen>
+    <dimen name="small_icon">16dp</dimen>
+    <dimen name="medium_image_size">112dp</dimen>
+    <dimen name="ad_details_width">186dp</dimen>
+    <dimen name="main_ad_size">64dp</dimen>
+    <dimen name="weather_status">72dp</dimen>
+
+
+    <dimen name="graph_height">172dp</dimen>
+    <dimen name="main_ad_layout_width">72dp</dimen>
+    <dimen name="toolbar_bell_size">24dp</dimen>
+    <dimen name="navigation_header">140dp</dimen>
+
+    //Alhasan start
+    <dimen name="edit_abstract_size">100dp</dimen>
+    //Alhasan end
+    <dimen name="custom_weather_icon">48dp</dimen>
+    <dimen name="main_ad_text_width">128dp</dimen>
+
+    <dimen name="currency_widget_icon_height">32dp</dimen>
+    <dimen name="currency_widget_icon_width">48dp</dimen>
+
+    <dimen name="very_small_text">12sp</dimen>
+    <dimen name="unit_test">10dp</dimen>
+    <dimen name="a_unit">6dp</dimen>
+
+    <dimen name="nass_user_cover_size">220dp</dimen>
+    <dimen name="nass_user_photo_margin">120dp</dimen>
+    <dimen name="nass_user_edit_btn_margin">80dp</dimen>
+    <dimen name="nass_user_info_margin">160dp</dimen>
+    <dimen name="nass_search_people_photo_size">64dp</dimen>
+
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+    <dimen name="dropdown_width">160dp</dimen>
+
+    <dimen name="main_card_size">132dp</dimen>
+
+    <dimen name="thin_line">0.5dp</dimen>
+
+
+    <dimen name="fourth_units">32dp</dimen>
+    <dimen name="dashbord_card">160dp</dimen>
+    <dimen name="card_stote_dashbord">80dp</dimen>
+    <dimen name="Umbrella">60dp</dimen>
+    <dimen name="hight_card_Store">220dp</dimen>
+    <dimen name="width_card_Store">180dp</dimen>
+    <dimen name="card_dashboard_icon">100dp</dimen>
+    <dimen name="card_product_management">200dp</dimen>
+    <dimen name="delete_icon_for_photo_list">40dp</dimen>
+    <dimen name="circle_button_in_filter">60dp</dimen>
+    <dimen name="chart_size">400dp</dimen>
+
+    <dimen name="top_splach">100dp</dimen>
+    <dimen name="width_pic_splash">200dp</dimen>
+
+
+    <dimen name="d0_2">2dp</dimen>
+    <dimen name="d0_4">4dp</dimen>
+    <dimen name="d0_6">6dp</dimen>
+    <dimen name="d0_8">8dp</dimen>
+    <dimen name="d1">10dp</dimen>
+    <dimen name="d1_2">12dp</dimen>
+    <dimen name="d1_4">14dp</dimen>
+    <dimen name="d1_6">16dp</dimen>
+    <dimen name="d2">20dp </dimen>
+    <dimen name="d3">30dp</dimen>
+    <dimen name="d3_4">34dp</dimen>
+    <dimen name="d4">40dp</dimen>
+    <dimen name="d5">50dp</dimen>
+    <dimen name="d6">60dp</dimen>
+    <dimen name="d7">70dp</dimen>
+    <dimen name="d8">80dp</dimen>
+    <dimen name="d9">90dp</dimen>
+    <dimen name="d10">100dp</dimen>
+    <dimen name="d11">110dp</dimen>
+    <dimen name="d12">120dp</dimen>
+    <dimen name="d13">130dp</dimen>
+    <dimen name="d14">140dp</dimen>
+    <dimen name="d15">150dp</dimen>
+
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="medium_text">18sp</dimen>
+    <dimen name="normal_text">16sp</dimen>
+    <dimen name="large_text">22sp</dimen>
+
+    <dimen name="s1">10sp</dimen>
+    <dimen name="s12">12sp</dimen>
+    <dimen name="s14">14sp</dimen>
+    <dimen name="s16">16sp</dimen>
+    <dimen name="s18">18sp</dimen>
+    <dimen name="s20">20sp</dimen>
+    <dimen name="s22">22sp</dimen>
+    <dimen name="s24">24sp</dimen>
+    <dimen name="s26">26sp</dimen>
+    <dimen name="s28">28sp</dimen>
+    <dimen name="s30">30sp</dimen>
+    <dimen name="s32">32sp</dimen>
+    <dimen name="s34">36sp</dimen>
+    <dimen name="s36">36sp</dimen>
+    <dimen name="hight_card">50dp</dimen>
+    <dimen name="d2_4">24dp</dimen>
+    <dimen name="d2_6">26dp</dimen>
+    <dimen name="customer_dialog">300dp</dimen>
+    <dimen name="d4_4">44dp</dimen>
+    <dimen name="d4_2">42dp</dimen>
+
+
+</resources>
